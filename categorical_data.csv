@@ -1,0 +1,353 @@
+player_team_name,player_name,player_position,foot,technique,keeper_name,keeper_team_name,competition_name,competition_stage,stadium,direction
+Barcelona,Luis Alberto Suárez Díaz,Left Center Forward,Right Foot,Normal,Axel Werner,Huesca,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Luis Alberto Suárez Díaz,Center Forward,Right Foot,Normal,Tomáš Vaclík,Sevilla,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Pau López Sabata,Real Betis,La Liga,Regular Season,Camp Nou,
+Valencia,Daniel Parejo Muñoz,Left Center Midfield,Right Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Camp Nou,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Norberto Murara Neto,Valencia,La Liga,Regular Season,Camp Nou,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Jordi Masip López,Real Valladolid,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Jordi Masip López,Real Valladolid,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Attacking Midfield,Left Foot,Normal,Stole Dimitrievski,Rayo Vallecano,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Luis Alberto Suárez Díaz,Center Forward,Right Foot,Normal,Fernando Pacheco Flores,Deportivo Alavés,La Liga,Regular Season,Camp Nou,RH
+Bayern Munich,Arjen Robben,Right Wing,Left Foot,Normal,Petr ?ech,Chelsea,Champions League,Final,Allianz Arena,RL
+Bayern Munich,Philipp Lahm,Right Back,Right Foot,Normal,Petr ?ech,Chelsea,Champions League,Final,Allianz Arena,RH
+Chelsea,Juan Manuel Mata García,Center Attacking Midfield,Left Foot,Normal,Manuel Neuer,Bayern Munich,Champions League,Final,Allianz Arena,CL
+Bayern Munich,Mario Gómez García,Center Forward,Right Foot,Normal,Petr ?ech,Chelsea,Champions League,Final,Allianz Arena,RL
+Chelsea,David Luiz Moreira Marinho,Left Center Back,Right Foot,Normal,Manuel Neuer,Bayern Munich,Champions League,Final,Allianz Arena,
+Bayern Munich,Manuel Neuer,Goalkeeper,Right Foot,Normal,Petr ?ech,Chelsea,Champions League,Final,Allianz Arena,LL
+Chelsea,Frank Lampard,Left Defensive Midfield,Right Foot,Normal,Manuel Neuer,Bayern Munich,Champions League,Final,Allianz Arena,CH
+Bayern Munich,Ivica Oli?,Left Wing,Left Foot,Normal,Petr ?ech,Chelsea,Champions League,Final,Allianz Arena,RH
+Chelsea,Ashley Cole,Left Back,Left Foot,Normal,Manuel Neuer,Bayern Munich,Champions League,Final,Allianz Arena,RH
+Bayern Munich,Bastian Schweinsteiger,Left Defensive Midfield,Right Foot,Normal,Petr ?ech,Chelsea,Champions League,Final,Allianz Arena,RC
+Chelsea,Didier Yves Drogba Tébily,Center Forward,Right Foot,Normal,Manuel Neuer,Bayern Munich,Champions League,Final,Allianz Arena,LL
+Borussia Dortmund,?lkay Gündo?an,Left Defensive Midfield,Right Foot,Normal,Manuel Neuer,Bayern Munich,Champions League,Final,Wembley Stadium,RL
+Real Madrid,Cristiano Ronaldo dos Santos Aveiro,Left Wing,Right Foot,Normal,Thibaut Courtois,Atlético Madrid,Champions League,Final,Estádio do Sport Lisboa e Benfica,RH
+Atlético Madrid,Antoine Griezmann,Left Center Forward,Left Foot,Normal,Keylor Navas Gamboa,Real Madrid,Champions League,Final,Stadio Giuseppe Meazza,
+Real Madrid,Lucas Vázquez Iglesias,Right Wing,Right Foot,Normal,Jan Oblak,Atlético Madrid,Champions League,Final,Stadio Giuseppe Meazza,RL
+Atlético Madrid,Antoine Griezmann,Left Center Forward,Left Foot,Normal,Keylor Navas Gamboa,Real Madrid,Champions League,Final,Stadio Giuseppe Meazza,CL
+Real Madrid,Marcelo Vieira da Silva Júnior,Left Back,Left Foot,Normal,Jan Oblak,Atlético Madrid,Champions League,Final,Stadio Giuseppe Meazza,RH
+Atlético Madrid,Gabriel Fernández Arenas,Right Defensive Midfield,Right Foot,Normal,Keylor Navas Gamboa,Real Madrid,Champions League,Final,Stadio Giuseppe Meazza,
+Real Madrid,Gareth Frank Bale,Left Wing,Left Foot,Normal,Jan Oblak,Atlético Madrid,Champions League,Final,Stadio Giuseppe Meazza,RL
+Atlético Madrid,Saúl Ñíguez Esclapez,Right Midfield,Left Foot,Normal,Keylor Navas Gamboa,Real Madrid,Champions League,Final,Stadio Giuseppe Meazza,LL
+Real Madrid,Sergio Ramos García,Left Center Back,Right Foot,Normal,Jan Oblak,Atlético Madrid,Champions League,Final,Stadio Giuseppe Meazza,RL
+Atlético Madrid,Juan Francisco Torres Belén,Right Back,Right Foot,Normal,Keylor Navas Gamboa,Real Madrid,Champions League,Final,Stadio Giuseppe Meazza,LL
+Real Madrid,Cristiano Ronaldo dos Santos Aveiro,Center Forward,Right Foot,Normal,Jan Oblak,Atlético Madrid,Champions League,Final,Stadio Giuseppe Meazza,RH
+Reading WFC,Lauren Bruton,Right Wing,Right Foot,Normal,Megan Walsh,Yeovil Town LFC,FA Women's Super League,Regular Season,Adams Park,LC
+Manchester City WFC,Nikita Parris,Right Wing,Right Foot,Normal,Sophie Baggaley,Bristol City WFC,FA Women's Super League,Regular Season,Academy Stadium,LL
+Arsenal WFC,Kim Little,Right Defensive Midfield,Right Foot,Normal,Carly Mitchell Telford,Chelsea FCW,FA Women's Super League,Regular Season,The Cherry Red Records Stadium,LH
+Birmingham City WFC,Aoife Mannion,Center Back,Right Foot,Normal,Sophie Baggaley,Bristol City WFC,FA Women's Super League,Regular Season,Stoke Gifford Stadium,RH
+Chelsea FCW,Karen Julia Carney,Left Midfield,Right Foot,Normal,Ann-Katrin Berger,Birmingham City WFC,FA Women's Super League,Regular Season,SportNation.bet Stadium,RH
+Yeovil Town LFC,Ellie Mason,Left Center Midfield,Left Foot,Normal,Marie Hourihan,Brighton & Hove Albion WFC,FA Women's Super League,Regular Season,,RL
+West Ham United LFC,Jane Ross,Left Center Forward,Right Foot,Normal,Kirstie Levell,Everton LFC,FA Women's Super League,Regular Season,Haig Avenue,LL
+Arsenal WFC,Danielle van de Donk,Right Center Midfield,Right Foot,Normal,Ann-Katrin Berger,Birmingham City WFC,FA Women's Super League,Regular Season,Meadow Park,RL
+Manchester City WFC,Nikita Parris,Center Forward,Right Foot,Normal,Anke Preuß,Liverpool WFC,FA Women's Super League,Regular Season,Prenton Park,LC
+Liverpool WFC,Courtney Sweetman-Kirk,Left Midfield,Right Foot,Normal,Pauline Peyraud Magnin,Arsenal WFC,FA Women's Super League,Regular Season,Prenton Park,LH
+Everton LFC,Inessa Kaagman,Center Attacking Midfield,Left Foot,Normal,Hannah Hampton,Birmingham City WFC,FA Women's Super League,Regular Season,Haig Avenue,CH
+Bristol City WFC,Lucy Graham,Center Attacking Midfield,Right Foot,Normal,Ellie Roebuck,Manchester City WFC,FA Women's Super League,Regular Season,Stoke Gifford Stadium,CC
+Liverpool WFC,Courtney Sweetman-Kirk,Center Forward,Right Foot,Normal,Megan Walsh,Yeovil Town LFC,FA Women's Super League,Regular Season,Clayson Stadium,LH
+Manchester City WFC,Nikita Parris,Right Center Forward,Right Foot,Normal,Marie Hourihan,Brighton & Hove Albion WFC,FA Women's Super League,Regular Season,Academy Stadium,LH
+Arsenal WFC,Kim Little,Right Center Midfield,Right Foot,Normal,Grace Moloney,Reading WFC,FA Women's Super League,Regular Season,Adams Park,RL
+Bristol City WFC,Lucy Graham,Center Attacking Midfield,Right Foot,Normal,Megan Walsh,Yeovil Town LFC,FA Women's Super League,Regular Season,Stoke Gifford Stadium,RC
+Chelsea FCW,Francesca Kirby,Right Center Forward,Right Foot,Normal,Sophie Baggaley,Bristol City WFC,FA Women's Super League,Regular Season,The Cherry Red Records Stadium,LL
+Reading WFC,Fara Williams,Left Defensive Midfield,Right Foot,Normal,Anne Moorhouse,West Ham United LFC,FA Women's Super League,Regular Season,Madejski Stadium,RL
+Arsenal WFC,Kim Little,Left Center Midfield,Right Foot,Normal,Megan Walsh,Yeovil Town LFC,FA Women's Super League,Regular Season,Meadow Park,LH
+Chelsea FCW,Francesca Kirby,Center Attacking Midfield,Right Foot,Normal,Anke Preuß,Liverpool WFC,FA Women's Super League,Regular Season,Prenton Park,RL
+Reading WFC,Fara Williams,Center Attacking Midfield,Right Foot,Normal,Ellie Roebuck,Manchester City WFC,FA Women's Super League,Regular Season,Adams Park,RC
+Reading WFC,Fara Williams,Center Attacking Midfield,Right Foot,Normal,Sophie Baggaley,Bristol City WFC,FA Women's Super League,Regular Season,Stoke Gifford Stadium,RL
+Liverpool WFC,Courtney Sweetman-Kirk,Left Midfield,Right Foot,Normal,Ellie Roebuck,Manchester City WFC,FA Women's Super League,Regular Season,Academy Stadium,RL
+Manchester City WFC,Nikita Parris,Right Center Forward,Right Foot,Normal,Megan Walsh,Yeovil Town LFC,FA Women's Super League,Regular Season,,LH
+Bristol City WFC,Charlie Wellings,Center Attacking Midfield,Right Foot,Normal,Anke Preuß,Liverpool WFC,FA Women's Super League,Regular Season,Stoke Gifford Stadium,CH
+Tottenham Hotspur Women,Rianna Dean,Center Forward,Right Foot,Normal,Megan Walsh,Brighton & Hove Albion WFC,FA Women's Super League,Regular Season,,RC
+Tottenham Hotspur Women,Rachel Furness,Right Center Midfield,Left Foot,Normal,Sophie Baggaley,Bristol City WFC,FA Women's Super League,Regular Season,Stoke Gifford Stadium,LL
+Tottenham Hotspur Women,Rachel Furness,Left Center Midfield,Left Foot,Normal,Anke Preuß,Liverpool WFC,FA Women's Super League,Regular Season,The Hive Stadium,LL
+Reading WFC,Fara Williams,Center Attacking Midfield,Right Foot,Normal,Alexandra MacIver,Everton LFC,FA Women's Super League,Regular Season,Select Security Stadium,LH
+West Ham United LFC,Kenza Dali,Right Center Midfield,Right Foot,Normal,Megan Walsh,Brighton & Hove Albion WFC,FA Women's Super League,Regular Season,The People's Pension Stadium,
+Brighton & Hove Albion WFC,Fern Whelan,Right Center Back,Right Foot,Normal,Sophie Baggaley,Bristol City WFC,FA Women's Super League,Regular Season,Ashton Gate Stadium,LH
+Brighton & Hove Albion WFC,Kayleigh Green,Left Center Forward,Right Foot,Normal,Hannah Hampton,Birmingham City WFC,FA Women's Super League,Regular Season,The American Express Community Stadium,
+Liverpool WFC,Melissa Lawley,Center Attacking Midfield,Right Foot,Normal,Sophie Baggaley,Bristol City WFC,FA Women's Super League,Regular Season,Prenton Park,LL
+Tottenham Hotspur Women,Rianna Dean,Left Center Forward,Right Foot,Normal,Ellie Roebuck,Manchester City WFC,FA Women's Super League,Regular Season,The Hive Stadium,LL
+Liverpool WFC,Melissa Lawley,Right Midfield,Right Foot,Normal,Courtney Brosnan,West Ham United LFC,FA Women's Super League,Regular Season,Prenton Park,
+Bristol City WFC,Yana Daniels,Right Center Midfield,Right Foot,Normal,Manuela Zinsberger,Arsenal WFC,FA Women's Super League,Regular Season,Meadow Park,RL
+Manchester City WFC,Georgia Stanway,Right Center Forward,Right Foot,Normal,Ann-Katrin Berger,Chelsea FCW,FA Women's Super League,Regular Season,Academy Stadium,CL
+Arsenal WFC,Kim Little,Right Center Midfield,Right Foot,Normal,Tinja-Riikka Korpela,Everton LFC,FA Women's Super League,Regular Season,Haig Avenue,RL
+Everton LFC,Lucy Graham,Center Attacking Midfield,Right Foot,Normal,Grace Moloney,Reading WFC,FA Women's Super League,Regular Season,Adams Park,LL
+Manchester United,Katie Zelem,Right Center Midfield,Right Foot,Normal,Chloe Morgan,Tottenham Hotspur Women,FA Women's Super League,Regular Season,Leigh Sports Village Stadium,CL
+Manchester United,Katie Zelem,Right Center Midfield,Right Foot,Normal,Anke Preuß,Liverpool WFC,FA Women's Super League,Regular Season,Leigh Sports Village Stadium,RL
+Manchester United,Katie Zelem,Left Center Midfield,Right Foot,Normal,Megan Walsh,Brighton & Hove Albion WFC,FA Women's Super League,Regular Season,Leigh Sports Village Stadium,LC
+Manchester United,Katie Zelem,Right Defensive Midfield,Right Foot,Normal,Tinja-Riikka Korpela,Everton LFC,FA Women's Super League,Regular Season,Leigh Sports Village Stadium,LL
+Reading WFC,Fara Williams,Center Attacking Midfield,Right Foot,Normal,Mary Alexandra Earps,Manchester United,FA Women's Super League,Regular Season,Adams Park,CL
+Reading WFC,Fara Williams,Center Attacking Midfield,Right Foot,Normal,Mary Alexandra Earps,Manchester United,FA Women's Super League,Regular Season,Adams Park,
+Chelsea FCW,Maren Nævdal Mjelde,Right Back,Right Foot,Normal,Mary Alexandra Earps,Manchester United,FA Women's Super League,Regular Season,Kingsmeadow,LL
+Liverpool,Mohamed Salah,Right Wing,Left Foot,Normal,Hugo Lloris,Tottenham Hotspur,Champions League,Final,,RC
+Spain Women's,Jennifer Hermoso Fuentes,Center Forward,Left Foot,Normal,Andile Dlamini,South Africa Women's,Women's World Cup,Regular Season,,LC
+Spain Women's,Jennifer Hermoso Fuentes,Center Forward,Left Foot,Normal,Andile Dlamini,South Africa Women's,Women's World Cup,Regular Season,,RH
+Australia Women's,Samantha Kerr,Center Forward,Right Foot,Normal,Laura Giuliani,Italy Women's,Women's World Cup,Regular Season,,LL
+Brazil Women's,Andressa Alves da Silva,Right Midfield,Left Foot,Normal,Sydney Schneider,Jamaica Women's,Women's World Cup,Regular Season,,LL
+England Women's,Nikita Parris,Right Midfield,Right Foot,Normal,Lee Alexander,Scotland Women's,Women's World Cup,Regular Season,Allianz Riviera,
+France Women's,Eugénie Le Sommer,Left Midfield,Right Foot,Normal,Ingrid Hjelmseth,Norway Women's,Women's World Cup,Regular Season,,LL
+Brazil Women's,Marta Vieira da Silva,Right Center Midfield,Left Foot,Normal,Lydia Williams,Australia Women's,Women's World Cup,Regular Season,Stade de la Mosson,LL
+Japan Women's,Yuika Sugasawa,Right Center Forward,Right Foot,Normal,Lee Alexander,Scotland Women's,Women's World Cup,Regular Season,,RL
+England Women's,Nikita Parris,Right Midfield,Right Foot,Normal,Vanina Noemí Correa,Argentina Women's,Women's World Cup,Regular Season,,RH
+Italy Women's,Cristiana Girelli,Center Attacking Midfield,Right Foot,Normal,Sydney Schneider,Jamaica Women's,Women's World Cup,Regular Season,,LL
+Sweden Women's,Elin Ingrid Johanna Rubensson,Left Center Midfield,Right Foot,Normal,Waraporn Boonsing,Thailand Women's,Women's World Cup,Regular Season,,LH
+United States Women's,Carli Lloyd,Left Center Midfield,Right Foot,Normal,Claudia Christiane Endler Mutinelli,Chile Women's,Women's World Cup,Regular Season,,
+France Women's,Wendie Renard,Left Center Back,Right Foot,Normal,Chiamaka Cynthia Nnadozie,Nigeria Women's,Women's World Cup,Regular Season,,
+Norway Women's,Caroline Graham Hansen,Right Midfield,Right Foot,Normal,Min-Jeong Kim,Korea Republic Women's,Women's World Cup,Regular Season,,LL
+Norway Women's,Isabell Herlovsen,Center Forward,Right Foot,Normal,Min-Jeong Kim,Korea Republic Women's,Women's World Cup,Regular Season,,LL
+Liverpool,Xabier Alonso Olano,Left Defensive Midfield,Right Foot,Normal,Nelson de Jesus da Silva,AC Milan,Champions League,Final,,LL
+AC Milan,Claudio Santos,Left Center Midfield,Left Foot,Normal,Jerzy Dudek,Liverpool,Champions League,Final,,
+Liverpool,Dietmar Hamann,Right Back,Right Foot,Normal,Nelson de Jesus da Silva,AC Milan,Champions League,Final,,LH
+AC Milan,Andrea Pirlo,Center Defensive Midfield,Right Foot,Normal,Jerzy Dudek,Liverpool,Champions League,Final,,LL
+Liverpool,Djibril Cissé,Center Forward,Right Foot,Normal,Nelson de Jesus da Silva,AC Milan,Champions League,Final,,RL
+AC Milan,Jon Dahl Tomasson,Left Center Forward,Right Foot,Normal,Jerzy Dudek,Liverpool,Champions League,Final,,LL
+Liverpool,John Arne Semundseth Riise,Left Midfield,Left Foot,Normal,Nelson de Jesus da Silva,AC Milan,Champions League,Final,,LL
+AC Milan,Ricardo Izecson dos Santos Leite,Center Attacking Midfield,Right Foot,Normal,Jerzy Dudek,Liverpool,Champions League,Final,,
+Liverpool,Vladimir Smicer,Right Midfield,Right Foot,Normal,Nelson de Jesus da Silva,AC Milan,Champions League,Final,,RC
+Real Madrid,Cristiano Ronaldo dos Santos Aveiro,Left Wing,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Santiago Bernabéu,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Diego López Rodríguez,Real Madrid,La Liga,Regular Season,Estadio Santiago Bernabéu,RH
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Diego López Rodríguez,Real Madrid,La Liga,Regular Season,Estadio Santiago Bernabéu,
+Barcelona,Neymar da Silva Santos Junior,Left Wing,Right Foot,Normal,Juan Carlos Martín Corral,Córdoba,La Liga,Regular Season,Estadio Nuevo Arcángel,RL
+Orlando Pride,Marta Vieira da Silva,Center Attacking Midfield,Left Foot,Normal,Emily Boyd,Chicago Red Stars,,,,RH
+Barcelona,Luis Alberto Suárez Díaz,Center Forward,Right Foot,Normal,Iván Cuéllar Sacristán,Sporting Gijón,La Liga,Regular Season,Camp Nou,RH
+Barcelona,Luis Alberto Suárez Díaz,Center Forward,Right Foot,Normal,Iván Cuéllar Sacristán,Sporting Gijón,La Liga,Regular Season,Camp Nou,
+Barcelona,Neymar da Silva Santos Junior,Left Wing,Right Foot,Normal,Iván Cuéllar Sacristán,Sporting Gijón,La Liga,Regular Season,Camp Nou,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Lob,Vicente Guaita Panadero,Getafe,La Liga,Regular Season,Camp Nou,CH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Diego Alves Carreira,Valencia,La Liga,Regular Season,Estadio de Mestalla,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Asier Riesgo Unamuno,Eibar,La Liga,Regular Season,Estadio Municipal de Ipurúa,CH
+Barcelona,Neymar da Silva Santos Junior,Left Wing,Right Foot,Normal,Sergio Asenjo Andrés,Villarreal,La Liga,Regular Season,Estadio de la Cerámica,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Iago Herrerín Buisán,Athletic Bilbao,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Gorka Iraizoz Moreno,Athletic Bilbao,La Liga,Regular Season,San Mamés Barria,LL
+Celta Vigo,John Guidetti,Center Forward,Right Foot,Normal,Claudio Andrés Bravo Muñoz,Barcelona,La Liga,Regular Season,Camp Nou,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Sergio Álvarez Conde,Celta Vigo,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Francisco Casilla Cortés,Espanyol,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Diego Alves Carreira,Valencia,La Liga,Regular Season,Camp Nou,CL
+North Carolina Courage,Débora Cristiane de Oliveira,Right Wing,Right Foot,Normal,Aubrey Bledsoe,Washington Spirit,,,,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Attacking Midfield,Left Foot,Normal,Rubén Iván Martínez Andrade,Levante,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Center Attacking Midfield,Left Foot,Normal,Rubén Iván Martínez Andrade,Levante,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Vicente Guaita Panadero,Getafe,La Liga,Regular Season,Camp Nou,RL
+Valencia,Daniel Parejo Muñoz,Right Center Midfield,Right Foot,Normal,Claudio Andrés Bravo Muñoz,Barcelona,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Diego Alves Carreira,Valencia,La Liga,Regular Season,Camp Nou,
+Barcelona,Luis Alberto Suárez Díaz,Center Forward,Right Foot,Normal,Juan Carlos Martín Corral,Rayo Vallecano,La Liga,Regular Season,Estadio de Vallecas,CC
+Mallorca,Víctor Casadesús Castaño,Right Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Iberostar Estadi,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Diego Mariño Villar,Levante,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Jesús Fernández Collado,Levante,La Liga,Regular Season,Estadio Ciudad de Valencia,
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Przemys?aw Tyto?,Elche,La Liga,Regular Season,Estadio Manuel Martínez Valero,LL
+Barcelona,Luis Alberto Suárez Díaz,Center Forward,Right Foot,Normal,Iván Cuéllar Sacristán,Sporting Gijón,La Liga,Regular Season,Estadio Municipal El Molinón,LC
+Real Betis,Jorge Molina Vidal,Center Attacking Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Benito Villamarín,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Cristian Darío Álvarez,Rayo Vallecano,La Liga,Regular Season,Camp Nou,RL
+Rayo Vallecano,Alberto Bueno Calvo,Right Center Midfield,Right Foot,Normal,Claudio Andrés Bravo Muñoz,Barcelona,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Andrés Eduardo Fernández Moreno,Villarreal,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Jaime Jiménez Merlo,Eibar,La Liga,Regular Season,Estadio Municipal de Ipurúa,RH
+Real Madrid,Cristiano Ronaldo dos Santos Aveiro,Left Center Forward,Right Foot,Normal,Claudio Andrés Bravo Muñoz,Barcelona,La Liga,Regular Season,Estadio Santiago Bernabéu,RL
+Barcelona,Javier Alejandro Mascherano,Right Center Back,Right Foot,Normal,Salvatore Sirigu,Osasuna,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Jon Ander Serantes Simon,Leganés,La Liga,Regular Season,Estadio Municipal de Butarque,
+Barcelona,Neymar da Silva Santos Junior,Left Wing,Right Foot,Normal,Antonio Adán Garrido,Real Betis,La Liga,Regular Season,Camp Nou,
+Granada,Francisco Manuel Rico Castro,Left Defensive Midfield,Right Foot,Normal,Claudio Andrés Bravo Muñoz,Barcelona,La Liga,Regular Season,Estadio Nuevo Los Cármenes,RH
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Antonio Adán Garrido,Real Betis,La Liga,Regular Season,Camp Nou,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Antonio Adán Garrido,Real Betis,La Liga,Regular Season,Camp Nou,RC
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Yoel Rodríguez Oterino,Eibar,La Liga,Regular Season,Camp Nou,CC
+Barcelona,Lionel Andrés Messi Cuccittini,Right Center Midfield,Left Foot,Normal,Yoel Rodríguez Oterino,Eibar,La Liga,Regular Season,Camp Nou,RH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Iago Herrerín Buisán,Leganés,La Liga,Regular Season,Camp Nou,LH
+Barcelona,Neymar da Silva Santos Junior,Left Wing,Right Foot,Normal,Javier Varas Herrera,Las Palmas,La Liga,Regular Season,Camp Nou,
+Valencia,Maximiliano Gómez González,Left Center Forward,Right Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Estadio de Mestalla,RH
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Alejandro Remiro Gargallo,Real Sociedad,La Liga,Regular Season,Camp Nou,RH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Rubén Blanco Veiga,Celta Vigo,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Aitor Fernández Abarisketa,Levante,La Liga,Regular Season,Estadio Ciudad de Valencia,
+Barcelona,Luis Alberto Suárez Díaz,Center Forward,Right Foot,Normal,Fernando Pacheco Flores,Deportivo Alavés,La Liga,Regular Season,Camp Nou,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Iván Cuéllar Sacristán,Leganés,La Liga,Regular Season,Camp Nou,RC
+Real Sociedad,Mikel Oyarzabal Ugarte,Left Midfield,Left Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Reale Arena,CL
+Granada,Álvaro Vadillo Cifuentes,Left Wing,Right Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Estadio Nuevo Los Cármenes,LL
+Atlético Madrid,Saúl Ñíguez Esclapez,Left Defensive Midfield,Left Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Center Forward,Left Foot,Normal,Jan Oblak,Atlético Madrid,La Liga,Regular Season,Camp Nou,LH
+Atlético Madrid,Saúl Ñíguez Esclapez,Left Defensive Midfield,Left Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Camp Nou,RL
+Real Betis,Sergio Canales Madrazo,Right Center Midfield,Left Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Estadio Benito Villamarín,LL
+Tottenham Hotspur,Robbie Keane,Left Center Forward,Right Foot,Normal,Jens Lehmann,Arsenal,Premier League,Regular Season,,RH
+Arsenal,Thierry Henry,Left Center Forward,Right Foot,Normal,Thomas Løvendahl Sørensen,Aston Villa,Premier League,Regular Season,,RH
+Arsenal,Thierry Henry,Left Center Forward,Right Foot,Normal,Mark Schwarzer,Middlesbrough,Premier League,Regular Season,,RL
+Middlesbrough,Massimo Maccarone,Left Center Forward,Right Foot,Normal,Jens Lehmann,Arsenal,Premier League,Regular Season,,LH
+Arsenal,Thierry Henry,Left Center Forward,Right Foot,Normal,Ian Walker,Leicester City,Premier League,Regular Season,,LL
+Arsenal,Thierry Henry,Left Center Forward,Right Foot,Normal,Shaka Hislop,Portsmouth,Premier League,Regular Season,,CL
+Arsenal,Thierry Henry,Left Center Forward,Right Foot,Lob,Paul Robinson,Leeds United,Premier League,Regular Season,,CH
+Arsenal,Thierry Henry,Left Center Forward,Right Foot,Normal,Richard Wright,Everton,Premier League,Regular Season,,CL
+Charlton Athletic,Paolo Di Canio,Right Center Forward,Right Foot,Lob,Jens Lehmann,Arsenal,Premier League,Regular Season,,CH
+Arsenal,Thierry Henry,Left Center Forward,Right Foot,Lob,Shay Given,Newcastle United,Premier League,Regular Season,,CL
+Manchester United,Ruud van Nistelrooy,Center Forward,Right Foot,Normal,Jens Lehmann,Arsenal,Premier League,Regular Season,,
+Brazil Women's,Marta Vieira da Silva,Center Attacking Midfield,Left Foot,Normal,Laura Giuliani,Italy Women's,Women's World Cup,Regular Season,,RL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Ricardo Sanzol Goñi,Osasuna,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Ronaldo de Assis Moreira,Left Midfield,Right Foot,Normal,César Sánchez Domínguez,Real Zaragoza,La Liga,Regular Season,Camp Nou,LL
+Barcelona,"Samuel Eto""o Fils",Center Forward,Right Foot,Normal,Armando Riveiro de Aguilar Malda,Cádiz,La Liga,Regular Season,Estadio Ramón de Carranza,LH
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Franco Costanzo,Deportivo Alavés,La Liga,Regular Season,Camp Nou,
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Andrés Palop Cervera,Sevilla,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Ronaldo de Assis Moreira,Center Forward,Right Foot,Normal,Andrés Palop Cervera,Sevilla,La Liga,Regular Season,Estadio Ramón Sánchez Pizjuán,CL
+Real Madrid,Ruud van Nistelrooy,Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,RL
+Argentina Women's,María Florencia Bonsegundo,Left Midfield,Right Foot,Normal,Lee Alexander,Scotland Women's,Women's World Cup,Regular Season,Parc des Princes,CC
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Felipe Melo de Carvalho,Racing Santander,La Liga,Regular Season,Campos de Sport de El Sardinero,RL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Iñaki Lafuente Sancha,Athletic Bilbao,La Liga,Regular Season,Camp Nou,RL
+Chile Women's,Francisca Alejandra Lara Lara,Left Wing Back,Left Foot,Normal,Waraporn Boonsing,Thailand Women's,Women's World Cup,Regular Season,,
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,César Sánchez Domínguez,Real Zaragoza,La Liga,Regular Season,Estadio de la Romareda,RL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Dudú Aouate,Racing Santander,La Liga,Regular Season,Camp Nou,CL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Dudú Aouate,Racing Santander,La Liga,Regular Season,Camp Nou,
+Racing Santander,Francisco Javier Casquero Paredes,Center Defensive Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,RL
+Germany Women's,Sara Däbritz,Left Midfield,Left Foot,Normal,Chiamaka Cynthia Nnadozie,Nigeria Women's,Women's World Cup,Regular Season,,RL
+Norway Women's,Caroline Graham Hansen,Center Attacking Midfield,Right Foot,Normal,Lydia Williams,Australia Women's,Women's World Cup,Regular Season,,RL
+Australia Women's,Samantha Kerr,Center Forward,Right Foot,Normal,Ingrid Hjelmseth,Norway Women's,Women's World Cup,Regular Season,,
+Norway Women's,Guro Reiten,Left Midfield,Left Foot,Normal,Lydia Williams,Australia Women's,Women's World Cup,Regular Season,,RL
+Australia Women's,Emily Gielnik,Left Wing,Right Foot,Normal,Ingrid Hjelmseth,Norway Women's,Women's World Cup,Regular Season,,LL
+Norway Women's,Maren Nævdal Mjelde,Right Center Back,Right Foot,Normal,Lydia Williams,Australia Women's,Women's World Cup,Regular Season,,LL
+Australia Women's,Steph Catley,Left Center Back,Left Foot,Normal,Ingrid Hjelmseth,Norway Women's,Women's World Cup,Regular Season,,RH
+Norway Women's,Ingrid Syrstad Engen,Left Center Midfield,Right Foot,Normal,Lydia Williams,Australia Women's,Women's World Cup,Regular Season,,RH
+Levante,Rahamat Riga Mustapha,Left Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,LL
+Real Madrid,Ruud van Nistelrooy,Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Santiago Bernabéu,RL
+Villarreal,Marcos Antonio Senna da Silva,Left Center Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio de la Cerámica,CH
+Villarreal,Marcos Antonio Senna da Silva,Left Center Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio de la Cerámica,CL
+Atlético Madrid,Diego Forlán Corazo,Left Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Vicente Calderón,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Timo Hildebrand,Valencia,La Liga,Regular Season,Camp Nou,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Andrés Palop Cervera,Sevilla,La Liga,Regular Season,Camp Nou,RL
+Levante,Emilio José Viqueira Moure,Left Defensive Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Ciudad de Valencia,RL
+Racing Santander,Ezequiel Marcelo Garay,Left Center Back,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Left Wing,Left Foot,Normal,David Cobeño Iglesias,Almería,La Liga,Regular Season,Camp Nou,CH
+Mallorca,Jonás Manuel Gutiérrez,Left Wing,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,CL
+United States Women's,Megan Rapinoe,Left Wing,Right Foot,Normal,Sandra Paños García-Villamil,Spain Women's,Women's World Cup,Round of 16,Stade Auguste-Delaune II,LL
+United States Women's,Megan Rapinoe,Left Wing,Right Foot,Normal,Sandra Paños García-Villamil,Spain Women's,Women's World Cup,Round of 16,Stade Auguste-Delaune II,LL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Pedro Gonzalez Contreras Cano,Real Betis,La Liga,Regular Season,Camp Nou,
+Canada Women's,Janine Beckie,Right Back,Right Foot,Normal,Rut Hedvig Lindahl,Sweden Women's,Women's World Cup,Round of 16,Parc des Princes,LL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Francesc Arnau,Málaga,La Liga,Regular Season,Camp Nou,
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Gorka Iraizoz Moreno,Athletic Bilbao,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Gustavo Adolfo Munúa Vera,Deportivo La Coruna,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,Dudú Aouate,Deportivo La Coruna,La Liga,Regular Season,Estadio Abanca-Riazor,RL
+Deportivo La Coruna,Fabián Larry Estoyanoff Poggio,Right Defensive Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Abanca-Riazor,RL
+Real Zaragoza,Diego Alberto Milito,Right Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio de la Romareda,
+Barcelona,Ronaldo de Assis Moreira,Left Wing,Right Foot,Normal,César Sánchez Domínguez,Real Zaragoza,La Liga,Regular Season,Estadio de la Romareda,RH
+Barcelona,"Samuel Eto""o Fils",Center Forward,Right Foot,Normal,Juan Antonio Rodríguez Villamuela,Deportivo La Coruna,La Liga,Regular Season,Camp Nou,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Stefano Sorrentino,Recreativo Huelva,La Liga,Regular Season,Camp Nou,LL
+Atlético Madrid,Diego Forlán Corazo,Left Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Vicente Calderón,LC
+Real Murcia,Iván Daniel Alonso Vallejo,Left Center Forward,Left Foot,Normal,José Manuel Pinto Colorado,Barcelona,La Liga,Regular Season,Estadio Enrique Roca de Murcia,
+Netherlands Women's,Lieke Martens,Left Wing,Right Foot,Normal,Ayaka Yamashita,Japan Women's,Women's World Cup,Round of 16,Roazhon Park,RL
+Barcelona,"Samuel Eto""o Fils",Center Forward,Right Foot,Normal,Ricardo Alexandre Martins Soares Pereira,Real Betis,La Liga,Regular Season,Estadio Benito Villamarín,LL
+England Women's,Nikita Parris,Right Midfield,Right Foot,Normal,Ingrid Hjelmseth,Norway Women's,Women's World Cup,Regular Season,Stade Océane,LH
+Racing Santander,Nikola Žigi?,Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Campos de Sport de El Sardinero,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Idriss Carlos Kameni,Espanyol,La Liga,Regular Season,Estadi Olímpic Lluís Companys,RL
+Barcelona,"Samuel Eto""o Fils",Center Forward,Right Foot,Normal,Grégory Coupet,Atlético Madrid,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Antonio Rodríguez Martínez,Racing Santander,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Gorka Iraizoz Moreno,Athletic Bilbao,La Liga,Regular Season,Camp Nou,LH
+Villarreal,Matías Ariel Fernández Fernández,Center Attacking Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Asier Riesgo Unamuno,Recreativo Huelva,La Liga,Regular Season,Camp Nou,LL
+Barcelona,"Samuel Eto""o Fils",Center Forward,Right Foot,Normal,Iker Casillas Fernández,Real Madrid,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Zlatan Ibrahimovi?,Center Forward,Right Foot,Normal,Roberto Jiménez Gago,Real Zaragoza,La Liga,Regular Season,Estadio de la Romareda,LL
+Getafe,Roberto Soldado Rillo,Right Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Iker Casillas Fernández,Real Madrid,La Liga,Regular Season,Estadio Santiago Bernabéu,CH
+Real Madrid,Cristiano Ronaldo dos Santos Aveiro,Left Wing,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Santiago Bernabéu,RC
+Real Sociedad,Xabier Prieto Argarate,Right Wing,Right Foot,Normal,José Manuel Pinto Colorado,Barcelona,La Liga,Regular Season,Reale Arena,CH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Wing,Left Foot,Normal,Dudú Aouate,Mallorca,La Liga,Regular Season,Camp Nou,
+England Women's,Stephanie Houghton,Right Center Back,Right Foot,Normal,Alyssa Naeher,United States Women's,Women's World Cup,Semi-finals,Groupama Stadium,LL
+Getafe,Manuel del Moral Fernández,Left Wing,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Coliseum Alfonso Pérez,LH
+Athletic Bilbao,Andoni Iraola Sagarna,Right Back,Right Foot,Normal,José Manuel Pinto Colorado,Barcelona,La Liga,Regular Season,Camp Nou,RL
+Racing Santander,Mohamed Gasana Tchité,Right Center Forward,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Campos de Sport de El Sardinero,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Antonio Rodríguez Martínez,Racing Santander,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Diego Alves Carreira,Almería,La Liga,Regular Season,Camp Nou,RC
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Ricardo López Felipe,Osasuna,La Liga,Regular Season,Estadio El Sadar,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Attacking Midfield,Left Foot,Normal,Dudú Aouate,Mallorca,La Liga,Regular Season,Camp Nou,
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Cristian Darío Álvarez,Espanyol,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Cristian Darío Álvarez,Espanyol,La Liga,Regular Season,Camp Nou,RH
+United States Women's,Megan Rapinoe,Left Wing,Right Foot,Normal,Sari van Veenendaal,Netherlands Women's,Women's World Cup,Final,Groupama Stadium,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Mario Fernández Cuesta,Racing Santander,La Liga,Regular Season,Campos de Sport de El Sardinero,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Gorka Iraizoz Moreno,Athletic Bilbao,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Casto Espinosa Barriga,Real Betis,La Liga,Regular Season,Camp Nou,CH
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Javier Varas Herrera,Sevilla,La Liga,Regular Season,Camp Nou,RC
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Idriss Carlos Kameni,Málaga,La Liga,Regular Season,Camp Nou,CL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Idriss Carlos Kameni,Málaga,La Liga,Regular Season,Camp Nou,RH
+Real Zaragoza,Ángel Lafita Castillo,Center Attacking Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio de la Romareda,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Roberto Jiménez Gago,Real Zaragoza,La Liga,Regular Season,Estadio de la Romareda,CH
+Levante,José Javier Barkero Saludes,Center Attacking Midfield,Left Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Ciudad de Valencia,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Attacking Midfield,Left Foot,Normal,Gustavo Adolfo Munúa Vera,Levante,La Liga,Regular Season,Estadio Ciudad de Valencia,
+Granada,Guilherme Magdalena Siqueira,Left Back,Left Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,CL
+Granada,Guilherme Magdalena Siqueira,Left Back,Left Foot,Lob,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Camp Nou,RL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Andrés Eduardo Fernández Moreno,Osasuna,La Liga,Regular Season,Camp Nou,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Keylor Navas Gamboa,Levante,La Liga,Regular Season,Camp Nou,LH
+Levante,José Javier Barkero Saludes,Center Attacking Midfield,Left Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Ciudad de Valencia,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Vicente Guaita Panadero,Valencia,La Liga,Regular Season,Estadio de Mestalla,
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Miguel Ángel Moyà Rumbo,Getafe,La Liga,Regular Season,Coliseum Alfonso Pérez,RH
+Rayo Vallecano,Roberto Trashorras Gayoso,Right Center Midfield,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio de Vallecas,LH
+Atlético Madrid,Mario Mandžuki?,Center Forward,Right Foot,Normal,Claudio Andrés Bravo Muñoz,Barcelona,La Liga,Regular Season,Camp Nou,
+Deportivo La Coruna,Luís Miguel Afonso Fernandes,Left Wing,Right Foot,Normal,Víctor Valdés Arribas,Barcelona,La Liga,Regular Season,Estadio Abanca-Riazor,RH
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Francisco Casilla Cortés,Espanyol,La Liga,Regular Season,RCDE Stadium,LL
+Seattle Reign,Jodie Taylor,Center Forward,Right Foot,Normal,Britt Eckerstrom,Portland Thorns,NWSL,Regular Season,Providence Park,LL
+Sky Blue FC,Carli Lloyd,Right Center Midfield,Right Foot,Normal,Katelyn Rowland,North Carolina Courage,NWSL,Regular Season,Yurcak Field,LH
+Chicago Red Stars,Yuki Nagasato,Right Center Forward,Right Foot,Normal,Katelyn Rowland,North Carolina Courage,NWSL,Regular Season,Sahlen's Stadium at WakeMed Soccer Park,LL
+Seattle Reign,Megan Rapinoe,Left Wing,Right Foot,Normal,Jane Campbell,Houston Dash,NWSL,Regular Season,UW Medicine Pitch at Memorial Stadium,
+Orlando Pride,Alex Morgan,Right Center Forward,Left Foot,Normal,Abby Smith,Utah Royals,NWSL,Regular Season,Rio Tinto Stadium,
+Orlando Pride,Marta Vieira da Silva,Left Center Forward,Left Foot,Normal,Kailen Sheridan,Sky Blue FC,NWSL,Regular Season,Exploria Stadium,RH
+North Carolina Courage,Lynn Williams,Left Center Forward,Right Foot,Normal,Britt Eckerstrom,Portland Thorns,NWSL,Regular Season,Providence Park,
+Croatia,Luka Modri?,Center Attacking Midfield,Right Foot,Normal,Francis Odinaka Uzoho,Nigeria,FIFA World Cup,Group Stage,Stadion Kaliningrad,LL
+France,Antoine Griezmann,Center Forward,Left Foot,Normal,Mathew Ryan,Australia,FIFA World Cup,Group Stage,Kazan' Arena (Kazan'),RH
+Australia,Mile Jedinak,Right Center Midfield,Right Foot,Normal,Hugo Lloris,France,FIFA World Cup,Group Stage,Kazan' Arena (Kazan'),RL
+Argentina,Lionel Andrés Messi Cuccittini,Right Attacking Midfield,Left Foot,Normal,Hannes Þór Halldórsson,Iceland,FIFA World Cup,Group Stage,Otkrytiye Arena,CH
+Peru,Christian Alberto Cueva Bravo,Center Attacking Midfield,Right Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Group Stage,Mordovia Arena,
+Tunisia,Ferjani Sassi,Right Center Midfield,Right Foot,Normal,Jordan Pickford,England,FIFA World Cup,Group Stage,Volgograd Arena,LL
+Sweden,Andreas Granqvist,Left Center Back,Right Foot,Normal,Hyun-Woo Cho,South Korea,FIFA World Cup,Group Stage,Stadion Nizhny Novgorod,RL
+Egypt,Mohamed Salah,Right Center Forward,Left Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Group Stage,Saint-Petersburg Stadium,
+Japan,Shinji Kagawa,Center Attacking Midfield,Right Foot,Normal,David Ospina Ramírez,Colombia,FIFA World Cup,Group Stage,Mordovia Arena,CL
+Australia,Mile Jedinak,Left Center Midfield,Right Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Group Stage,Samara Arena,RL
+Iceland,Gylfi Þór Sigurðsson,Left Defensive Midfield,Right Foot,Normal,Francis Odinaka Uzoho,Nigeria,FIFA World Cup,Group Stage,Volgograd Arena,
+Belgium,Eden Hazard,Left Wing,Right Foot,Normal,Farouk Ben Mustapha,Tunisia,FIFA World Cup,Group Stage,Otkrytiye Arena,LL
+Mexico,Carlos Alberto Vela Garrido,Center Attacking Midfield,Left Foot,Normal,Hyun-Woo Cho,South Korea,FIFA World Cup,Group Stage,Rostov Arena,CH
+England,Harry Kane,Left Center Forward,Right Foot,Normal,Jaime Manuel Penedo Cano,Panama,FIFA World Cup,Group Stage,Stadion Nizhny Novgorod,
+England,Harry Kane,Left Center Forward,Right Foot,Normal,Jaime Manuel Penedo Cano,Panama,FIFA World Cup,Group Stage,Stadion Nizhny Novgorod,LH
+Portugal,Cristiano Ronaldo dos Santos Aveiro,Left Center Forward,Right Foot,Normal,Alireza Safar Beiranvand,Iran,FIFA World Cup,Group Stage,Mordovia Arena,RC
+Iran,Karim Ansarifard,Center Defensive Midfield,Right Foot,Normal,Rui Pedro dos Santos Patrício,Portugal,FIFA World Cup,Group Stage,Mordovia Arena,
+Saudi Arabia,Fahad Mosaed Al Muwallad Al Harbi,Center Forward,Right Foot,Normal,Essam Kamal Tawfik El Hadary,Egypt,FIFA World Cup,Group Stage,Volgograd Arena,LL
+Saudi Arabia,Salman Mohammed Al Faraj,Left Center Midfield,Left Foot,Normal,Essam Kamal Tawfik El Hadary,Egypt,FIFA World Cup,Group Stage,Volgograd Arena,
+Iceland,Gylfi Þór Sigurðsson,Right Center Midfield,Right Foot,Normal,Lovre Kalini?,Croatia,FIFA World Cup,Group Stage,Rostov Arena,
+Nigeria,Victor Moses,Right Wing Back,Right Foot,Normal,Franco Armani,Argentina,FIFA World Cup,Group Stage,Saint-Petersburg Stadium,RL
+Sweden,Andreas Granqvist,Left Center Back,Right Foot,Normal,Francisco Guillermo Ochoa Magaña,Mexico,FIFA World Cup,Group Stage,Ekaterinburg Arena,
+Costa Rica,Bryan Ruiz González,Right Wing,Left Foot,Normal,Yann Sommer,Switzerland,FIFA World Cup,Group Stage,Stadion Nizhny Novgorod,
+Portugal,Cristiano Ronaldo dos Santos Aveiro,Left Center Forward,Right Foot,Normal,David de Gea Quintana,Spain,FIFA World Cup,Group Stage,Olimpiyskiy Stadion Fisht,RH
+France,Antoine Griezmann,Right Wing Back,Left Foot,Normal,Franco Armani,Argentina,FIFA World Cup,Round of 16,,CL
+Croatia,Luka Modri?,Left Defensive Midfield,Right Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,RL
+Denmark,Christian Dannemann Eriksen,Secondary Striker,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,LL
+Croatia,Milan Badelj,Left Midfield,Right Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,CL
+Denmark,Simon Thorup Kjær,Right Center Back,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,
+Croatia,Andrej Kramari?,Left Center Forward,Right Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,LL
+Denmark,Michael Krohn-Dehli,Left Center Midfield,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,LL
+Croatia,Luka Modri?,Left Defensive Midfield,Right Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,CL
+Denmark,Lasse Schöne,Right Center Midfield,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,LC
+Croatia,Josip Pivari?,Left Back,Left Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,LL
+Denmark,Nicolai Jørgensen,Center Forward,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,CL
+Croatia,Ivan Rakiti?,Right Defensive Midfield,Right Foot,Normal,Kasper Schmeichel,Denmark,FIFA World Cup,Round of 16,Stadion Nizhny Novgorod,LL
+Russia,Artem Dzyuba,Center Forward,Right Foot,Normal,David de Gea Quintana,Spain,FIFA World Cup,Round of 16,Stadion Luzhniki,RH
+Spain,Andrés Iniesta Luján,Center Attacking Midfield,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Round of 16,Stadion Luzhniki,RH
+Russia,Fyodor Smolov,Secondary Striker,Right Foot,Normal,David de Gea Quintana,Spain,FIFA World Cup,Round of 16,Stadion Luzhniki,LH
+Spain,Gerard Piqué Bernabéu,Right Center Back,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Round of 16,Stadion Luzhniki,LH
+Russia,Sergei Ignashevich,Left Center Back,Right Foot,Normal,David de Gea Quintana,Spain,FIFA World Cup,Round of 16,Stadion Luzhniki,RH
+Spain,Jorge Resurrección Merodio,Right Defensive Midfield,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Round of 16,Stadion Luzhniki,LL
+Russia,Aleksandr Golovin,Right Center Midfield,Right Foot,Normal,David de Gea Quintana,Spain,FIFA World Cup,Round of 16,Stadion Luzhniki,CL
+Spain,Sergio Ramos García,Left Center Back,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Round of 16,Stadion Luzhniki,LH
+Russia,Denis Cheryshev,Left Midfield,Left Foot,Normal,David de Gea Quintana,Spain,FIFA World Cup,Round of 16,Stadion Luzhniki,CH
+Spain,Iago Aspas Juncal,Center Forward,Left Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Round of 16,Stadion Luzhniki,CC
+England,Harry Kane,Left Center Forward,Right Foot,Normal,David Ospina Ramírez,Colombia,FIFA World Cup,Round of 16,Otkrytiye Arena,CH
+Colombia,Radamel Falcao García Zárate,Right Center Forward,Right Foot,Normal,Jordan Pickford,England,FIFA World Cup,Round of 16,Otkrytiye Arena,CH
+England,Harry Kane,Left Center Forward,Right Foot,Normal,David Ospina Ramírez,Colombia,FIFA World Cup,Round of 16,Otkrytiye Arena,LL
+Colombia,Juan Guillermo Cuadrado Bello,Right Wing,Right Foot,Normal,Jordan Pickford,England,FIFA World Cup,Round of 16,Otkrytiye Arena,
+England,Marcus Rashford,Right Center Back,Right Foot,Normal,David Ospina Ramírez,Colombia,FIFA World Cup,Round of 16,Otkrytiye Arena,LL
+Colombia,Luis Fernando Muriel Fruto,Right Center Midfield,Right Foot,Normal,Jordan Pickford,England,FIFA World Cup,Round of 16,Otkrytiye Arena,RL
+England,Jordan Brian Henderson,Center Defensive Midfield,Right Foot,Normal,David Ospina Ramírez,Colombia,FIFA World Cup,Round of 16,Otkrytiye Arena,RL
+Colombia,Andrés Mateus Uribe Villa,Left Center Midfield,Right Foot,Normal,Jordan Pickford,England,FIFA World Cup,Round of 16,Otkrytiye Arena,
+England,Kieran Trippier,Right Midfield,Right Foot,Normal,David Ospina Ramírez,Colombia,FIFA World Cup,Round of 16,Otkrytiye Arena,LH
+Colombia,Carlos Arturo Bacca Ahumada,Left Center Forward,Right Foot,Normal,Jordan Pickford,England,FIFA World Cup,Round of 16,Otkrytiye Arena,CH
+England,Eric Dier,Left Attacking Midfield,Right Foot,Normal,David Ospina Ramírez,Colombia,FIFA World Cup,Round of 16,Otkrytiye Arena,LL
+Russia,Fyodor Smolov,Left Wing,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,CH
+Croatia,Marcelo Brozovi?,Left Midfield,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,RH
+Russia,Alan Dzagoev,Center Attacking Midfield,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,RL
+Croatia,Mateo Kova?i?,Right Wing,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,RL
+Russia,Mário Figueira Fernandes,Right Back,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,
+Croatia,Luka Modri?,Right Midfield,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,LL
+Russia,Sergei Ignashevich,Left Center Back,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,LL
+Croatia,Domagoj Vida,Right Back,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,LH
+Russia,Daler Kuzyaev,Right Center Midfield,Right Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,LL
+Croatia,Ivan Rakiti?,Center Midfield,Right Foot,Normal,Igor Akinfeev,Russia,FIFA World Cup,Quarter-finals,Olimpiyskiy Stadion Fisht,LL
+France,Antoine Griezmann,Right Center Forward,Left Foot,Normal,Danijel Subaši?,Croatia,FIFA World Cup,Final,Stadion Luzhniki,LL
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Fernando Pacheco Flores,Deportivo Alavés,La Liga,Regular Season,Estadio de Mendizorroza,LC
+Barcelona,Lionel Andrés Messi Cuccittini,Center Forward,Left Foot,Normal,Marko Dmitrovi?,Eibar,La Liga,Regular Season,Camp Nou,LH
+Barcelona,Lionel Andrés Messi Cuccittini,Right Center Forward,Left Foot,Normal,Rubén Iván Martínez Andrade,Deportivo La Coruna,La Liga,Regular Season,Camp Nou,CH
+Barcelona,Lionel Andrés Messi Cuccittini,Left Center Forward,Left Foot,Normal,Keylor Navas Gamboa,Real Madrid,La Liga,Regular Season,Estadio Santiago Bernabéu,CH
+Las Palmas,Jonathan Calleri,Center Forward,Right Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Estadio de Gran Canaria,
+Valencia,Daniel Parejo Muñoz,Right Center Midfield,Right Foot,Normal,Marc-André ter Stegen,Barcelona,La Liga,Regular Season,Camp Nou,RL
